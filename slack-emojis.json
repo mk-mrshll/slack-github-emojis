@@ -1,6 +1,6 @@
 [{
     "name": "Slack Emojis",
-    "source": "",
+    "source": "https://github.com/mk-mrshll/slack-github-emojis",
     "copyright": "Mike Marshall",
     "license": "?"
 }, {
